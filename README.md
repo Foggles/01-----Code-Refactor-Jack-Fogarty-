@@ -13,11 +13,11 @@ This project was undertaken to solve a few minor problems;
 *Consolidation of CSS properties and selectors to improve sustainability.
 
 ## Screenshots of Completed Project
-![Screenshot of Top of Page](./assets/images/screenshot-1.png)
+![Screenshot of Top of Page](./assets/images/screenshot-1.PNG)
 
-![Screenshot of Middle of Page](./assets/images/screenshot-2.png)
+![Screenshot of Middle of Page](./assets/images/screenshot-2.PNG)
 
-![Screenshot of Bottom of Page](./assets/images/screenshot-3.png)
+![Screenshot of Bottom of Page](./assets/images/screenshot-3.PNG)
 
 ## Link to Live Project
 ### https://foggles.github.io/01---Code-Refactor/
