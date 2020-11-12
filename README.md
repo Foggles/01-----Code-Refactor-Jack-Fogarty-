@@ -20,4 +20,4 @@ This project was undertaken to solve a few minor problems;
 ![Screenshot of Bottom of Page](./assets/images/screenshot-3.PNG)
 
 ## Link to Live Project
-### https://foggles.github.io/01---Code-Refactor/
+### https://foggles.github.io/01-----Code-Refactor-Jack-Fogarty-/
