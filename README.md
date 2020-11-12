@@ -9,8 +9,8 @@ Another goal of this project was to consolidate CSS properties and selectors, to
 
 ## Problems that it Solves
 This project was undertaken to solve a few minor problems;
-*Converting HTML to semantic HTML to improve sustainability (Refactoring it).
-*Consolidation of CSS properties and selectors to improve sustainability.
+* Converting HTML to semantic HTML to improve sustainability (Refactoring it).
+* Consolidation of CSS properties and selectors to improve sustainability.
 
 ## Screenshots of Completed Project
 ![Screenshot of Top of Page](./assets/images/screenshot-1.PNG)
